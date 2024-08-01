@@ -1,6 +1,4 @@
-コードのコメントを日本語に訳しました。以下がその訳です：
 
-```python
 import face_recognition
 import cv2
 import numpy as np
@@ -83,4 +81,3 @@ while True:
 # ウェブカメラのハンドルを解放
 video_capture.release()
 cv2.destroyAllWindows()
-```
