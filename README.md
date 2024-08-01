@@ -8,5 +8,7 @@ git clone https://github.com/rintaro-s/webcam_face_recognition.git<br>
 解凍＞中に入ってターミナル開く<br>
 chmod +x ./install.sh<br>
 ./install.sh<br>
+##次のパッケージがインストールされているならここから:opencv_python,dlib,face_recognition##<br>
 a.jpgと、b.jpgを置く<br>
 python3 ./cv.py<br>
+
