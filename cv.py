@@ -15,22 +15,22 @@ import numpy as np
 video_capture = cv2.VideoCapture(0)
 
 # Load a sample picture and learn how to recognize it.
-rinta_image = face_recognition.load_image_file("rinta.jpg")
-rinta_face_encoding = face_recognition.face_encodings(rinta_image)[0]
+a_image = face_recognition.load_image_file("a.jpg")
+a_face_encoding = face_recognition.face_encodings(a_image)[0]
 
 # Load a second sample picture and learn how to recognize it.
-matu_image = face_recognition.load_image_file("matu.jpg")
-matu_face_encoding = face_recognition.face_encodings(matu_image)[0]
+b_image = face_recognition.load_image_file("b.jpg")
+b_face_encoding = face_recognition.face_encodings(b_image)[0]
 
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [
-    rinta_face_encoding,
-    matu_face_encoding
+    a_face_encoding,
+    b_face_encoding
 ]
 known_face_names = [
-    "rinta",
-    "matuduki"
+    "a",
+    "b"
 ]
 
 # Initialize some variables
