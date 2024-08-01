@@ -1,5 +1,5 @@
 original（動かない） : https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py <br>
-Bug-free facerec_from_webcam_faster.py program<br>
+Bug-free facerec_from_webcam_faster.py program<br>simple.pyは、重いけどコードが少ないです
 <h2>
   使い方　下のコードを実行
 </h2>
