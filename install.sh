@@ -7,5 +7,6 @@ sudo make
 sudo make install
 hash -r
 cmake --version
+pip install opencv_python
 pip install dlib
 pip install face_recognition
