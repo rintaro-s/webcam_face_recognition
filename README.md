@@ -1,5 +1,5 @@
 original（動かない） : https://github.com/ageitgey/face_recognition/blob/master/examples/facerec_from_webcam_faster.py <br>
-Bug-free facerec_from_webcam_faster.py program<br>simple.pyは、重いけどコードが少ないです
+Bug-free facerec_from_webcam_faster.py program<br>simple.pyは、重いけどコードが少ないです<br>詳しい使い方：https://lorinta.xsrv.jp/2024/08/02/%e3%80%90opencv%e3%80%91%e9%a1%94%e6%a4%9c%e5%87%ba%e3%82%92%e3%81%97%e3%81%a6%e3%80%81%e7%89%b9%e5%ae%9a%e3%81%ae%e4%ba%ba%e3%81%ae%e9%a1%94%e3%82%92%e3%83%aa%e3%82%a2%e3%83%ab%e3%82%bf%e3%82%a4/
 <h2>
   使い方　下のコードを実行
 </h2>
