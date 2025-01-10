@@ -6,7 +6,7 @@ Bug-free facerec_from_webcam_faster.py program<br>simple.pyは、重いけどコ
 
 ```
 
-git clone https://github.com/rintaro-s/webcam_face_recognition.git<br>
+git clone https://github.com/rintaro-s/webcam_face_recognition.git
 
 ```
 解凍＞中に入ってターミナル開く<br>
