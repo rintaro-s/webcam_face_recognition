@@ -3,7 +3,9 @@ Bug-free facerec_from_webcam_faster.py program<br>simple.pyは、重いけどコ
 <h2>
   使い方　下のコードを実行
 </h2>
+
 ```
+
 git clone https://github.com/rintaro-s/webcam_face_recognition.git<br>
 
 ```
